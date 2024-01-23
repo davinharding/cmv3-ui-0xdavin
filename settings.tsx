@@ -4,11 +4,11 @@ export const mintText = [
   { label: "WL", mintText: "WL mint paying with SOL", buttonLabel: "Mint now!", header: "WL Mint" },
   { label: "OG", mintText: "Mint Paying with ABC", buttonLabel: "Mint now!", header: "OG Mint" },
   { label: "publi", mintText: "Mint Paying with DEF", buttonLabel: "Mint now!", header: "Public Mint" },
-  { label: "default", mintText: "default mintText", buttonLabel: "Mint now!", header: "Default"}
+  { label: "default", mintText: "Mint Price: 0.25 SOL", buttonLabel: "Mint now!", header: "Default"}
 ];
 
 //header image in the ui. replace with your own
-export const image = "https://avatars.githubusercontent.com/u/93528482?v=4";
+export const image = "https://pbs.twimg.com/profile_images/1729964551716675584/UPXh24BD_400x400.png";
 
 //website title
-export const headerText = "MarkSackerberg's mint UI";
+export const headerText = "Sol NFT PoC - 0xdavin";
