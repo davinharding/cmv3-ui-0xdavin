@@ -7,6 +7,7 @@ export const allowLists = new Map<string, Array<string>>([
       "2ZekZevhKVu7fVntaeraRmJK9xrgkDQfch8PF1FgY62E",
       "FJx3g6nV6t5Tgo9KbGjuVARt6QKwauyDLVrktmjdQRJk",
       "42uZwJcKDeqGjLgxB2fhsP5VtubpQak5GJXkXsHYW8o8",
+      "AG8FoBErQ7WGKKJQBfomVdVxuhTRJPKT9C8sAYK2BUcV",
     ],
   ],
   [
@@ -15,6 +16,7 @@ export const allowLists = new Map<string, Array<string>>([
       "2ZekZevhKVu7fVntaeraRmJK9xrgkDQfch8PF1FgY62E",
       "FJx3g6nV6t5Tgo9KbGjuVARt6QKwauyDLVrktmjdQRJk",
       "42uZwJcKDeqGjLgxB2fhsP5VtubpQak5GJXkXsHYW8o8",
+      "AG8FoBErQ7WGKKJQBfomVdVxuhTRJPKT9C8sAYK2BUcV",
     ],
   ],
   [
@@ -33,6 +35,7 @@ export const allowLists = new Map<string, Array<string>>([
     "wlFCFS",
     [
       "Dtf28H8rgDzj26XxPyexpoMa5ccKnKSp5rVRmjPX9RpL",
+      "6afNZ1CHhMnG1UVAnKmQMSUXdBndduSAc81ysY3Bfeob",
     ],
   ],
 ]);
