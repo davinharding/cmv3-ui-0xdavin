@@ -122,7 +122,6 @@ export default function Home() {
   ]);
   const [checkEligibility, setCheckEligibility] = useState<boolean>(true);
 
-
   if (!process.env.NEXT_PUBLIC_CANDY_MACHINE_ID) {
     console.error("No candy machine in .env!")
     if (!toast.isActive('no-cm')) {
