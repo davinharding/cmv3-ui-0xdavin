@@ -13,4 +13,4 @@ export const mintText = [
 export const image = "/Logo's Projects Black.jpg";
 
 //website title
-export const headerText = "Foretelling";
+export const headerText = "Foretelling"; //test
